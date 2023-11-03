@@ -1,0 +1,12 @@
+﻿  源.cpp
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(245,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(842,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1071,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1073,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1098,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1100,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1129,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1131,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1155,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\源.cpp(1157,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  游戏（植物大战僵尸）.vcxproj -> D:\课程\专业课\专业基础课\C语言\游戏项目\植物大战僵尸\Debug\游戏（植物大战僵尸）.exe
